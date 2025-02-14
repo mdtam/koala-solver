@@ -1,5 +1,5 @@
 # Koala Puzzle Solver
 
-Inspired by [[koalastothemax.com]]
+Inspired by http://koalastothemax.com/
 
 with love!
